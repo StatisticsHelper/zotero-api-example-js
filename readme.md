@@ -18,4 +18,3 @@ Writing ``stats-herlper.js`` showed me that there is a max number of items that 
 
 ## Next
 Statistics Helper wouldn't be useful if a response is limited to 25 items. The next step is to figure out how to make the response include all the items in the library (currently: 1066). If that fails, I will move to using the Python-based client, ``PyZotero``.
-
